@@ -1,0 +1,6 @@
+{
+    "monica-code.pauseTabAutocompleteOnBattery": true,
+    "monica-code.pauseCodebaseIndexOnStart": true,
+    "monica-code.enableQuickActions": true,
+    "monica-code.enableDebugLogs": true
+}
